@@ -1,0 +1,10 @@
+colorama
+pystyle
+requests
+pyfiglet
+chardet
+pyarmor
+pyarmor-webui
+pywin32
+pytelegrambotapi
+phonenumbers
