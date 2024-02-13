@@ -3,6 +3,5 @@ pystyle
 requests
 pyfiglet
 chardet
-pywin32
 pytelegrambotapi
 phonenumbers
